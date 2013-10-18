@@ -1,0 +1,4 @@
+1- EL fichero gcd.rb contiene una implementacion en Ruby del maximo comun divisor. Haciendo uso del depurador de ruby detecte el error en el codigo.
+
+El error esta en el while == 0, puesto que este tendria que ser distinto de 0 para que funcione.
+Este error se ha detectado mediante el depurador, en el cual, al poner el break dentro del while, este nunca entraba. 
